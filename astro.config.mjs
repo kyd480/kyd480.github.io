@@ -5,5 +5,9 @@ import react from '@astrojs/react';
 
 // https://astro.build/config
 export default defineConfig({
-  integrations: [react()]
+  site: 'https://kyd480.github.io',
+  integrations: [react()],
+  build: {
+    format: 'directory',
+  },
 });

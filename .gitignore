@@ -25,3 +25,7 @@ pnpm-debug.log*
 
 # brainstorming companion artifacts (kept locally for reference)
 .superpowers/
+
+# private planning docs and Claude session context (local only)
+.private/
+CLAUDE.md

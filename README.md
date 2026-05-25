@@ -1,6 +1,6 @@
 # kyd480.github.io
 
-Personal site for Kevin Duong. See [`PLAN.md`](./PLAN.md) for design and [`IMPLEMENTATION.md`](./IMPLEMENTATION.md) for the build plan.
+Personal site for Kevin Duong.
 
 ## Develop
 

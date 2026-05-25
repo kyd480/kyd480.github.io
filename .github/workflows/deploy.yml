@@ -24,6 +24,8 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      - run: npm run format:check
+      - run: npm run lint
       - run: npx astro check
       - run: npm test --if-present
       - run: npm run build

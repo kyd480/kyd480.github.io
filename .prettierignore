@@ -1,0 +1,12 @@
+dist
+.astro
+node_modules
+package-lock.json
+public/Resume.pdf
+public/fonts
+public/og.png
+
+# Human-written long-form docs — preserve as-is
+PLAN.md
+IMPLEMENTATION.md
+README.md
